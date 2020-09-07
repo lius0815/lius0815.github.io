@@ -104,9 +104,8 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: http://lius0815:ls15827221146@github.com/lius0815/lius0815.github.io.git
+  repo: http://github.com/lius0815/lius0815.github.io.git
   branch: master
-  message: http://lius0815.github.io更新
 
 # tianjia
 jsonContent:
